@@ -1,3 +1,4 @@
+/* © 2026 Kasign / Kart Production. All rights reserved. Do not copy or republish. */
 /* KASIGN — Like / Comment / Share for blog posts
    Drop-in: add <script src="engage.js"></script> right before </body> in index.html
    Comments + likes (reactions) use Giscus (GitHub Discussions). Fill in the 2 IDs below. */

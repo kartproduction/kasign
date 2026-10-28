@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 630" width="600" height="630" role="img" font-family="Archivo,'Helvetica Neue',Helvetica,Arial,sans-serif"><title>Kauncher by Kart Production</title><desc>Extracted design</desc><rect width="600" height="630" fill="#efece2" /><g transform="translate(-600 0)"><rect x="620" y="40" width="540" height="550" rx="14" fill="#171613" stroke="#2f2c25" stroke-width="2" />
+<rect x="650" y="70" width="64" height="64" rx="16" fill="#3f5b45" />
+<path d="M664 118 L682 84 L700 118 Z" fill="#efece2" />
+<path d="M677 118 L688 100 L700 118 Z" fill="#3f5b45" />
+<text x="730" y="104" font-size="30" font-weight="900" fill="#efece2" letter-spacing="1">KAUNCHER</text>
+<text x="730" y="128" font-size="13" font-weight="500" fill="#7fa387" letter-spacing="3">BY KART PRODUCTION</text>
+<text x="650" y="206" font-size="27" font-weight="900" fill="#efece2">A minimalist</text>
+<text x="650" y="238" font-size="27" font-weight="900" fill="#e08653">launcher.</text>
+<text x="650" y="280" font-size="16" fill="#efece2" opacity="0.8">A quiet home screen with</text>
+<text x="650" y="304" font-size="16" fill="#efece2" opacity="0.8">the apps you need one</text>
+<text x="650" y="328" font-size="16" fill="#efece2" opacity="0.8">step away.</text>
+<rect x="650" y="380" width="150" height="30" rx="15" fill="none" stroke="#7fa387" stroke-width="1.5" />
+<text x="725.0" y="400" text-anchor="middle" font-size="14" font-weight="700" fill="#7fa387">Android</text>
+<rect x="650" y="420" width="150" height="30" rx="15" fill="none" stroke="#7fa387" stroke-width="1.5" />
+<text x="725.0" y="440" text-anchor="middle" font-size="14" font-weight="700" fill="#7fa387">iPhone web app</text>
+<rect x="650" y="460" width="150" height="30" rx="15" fill="#e08653" stroke="#e08653" stroke-width="1.5" />
+<text x="725.0" y="480" text-anchor="middle" font-size="14" font-weight="700" fill="#171613">Focus lock</text>
+<text x="650" y="566" font-size="13" font-weight="500" fill="#efece2" opacity="0.7">kartproduction.github.io/kauncher</text>
+<rect x="960" y="150" width="170" height="396" rx="26" fill="#050504" stroke="#3a372f" stroke-width="2" />
+<rect x="968" y="158" width="154" height="380" rx="19" fill="#12110f" />
+<text x="984" y="220" font-size="34" font-weight="300" fill="#efece2">10:24</text>
+<circle cx="992" cy="295" r="6" fill="none" stroke="#7fa387" stroke-width="2" />
+<text x="1010" y="300" font-size="17" fill="#efece2">Focus</text>
+<circle cx="992" cy="347" r="6" fill="none" stroke="#7fa387" stroke-width="2" />
+<text x="1010" y="352" font-size="17" fill="#efece2">Apps</text>
+<circle cx="992" cy="399" r="6" fill="none" stroke="#7fa387" stroke-width="2" />
+<text x="1010" y="404" font-size="17" fill="#efece2">Settings</text>
+<rect x="984" y="468" width="122" height="30" rx="15" fill="#e08653" />
+<text x="1045" y="488" text-anchor="middle" font-size="13" font-weight="700" fill="#171613">Focus lock on</text>
+</g></svg>
