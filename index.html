@@ -319,7 +319,7 @@
     </div>
   </section>
 
-  <footer>© 2026 Kasign, a Kart Production practice. All rights reserved. Designs may not be copied or reused without permission.</footer>
+<footer>© <span class="yr" data-start="2020">2020</span> Kasign, a Kart Production practice. All rights reserved. Designs may not be copied or reused without permission.</footer>
 </div>
 
 <script>
@@ -345,6 +345,10 @@
       paint();
     });
   })();
+document.querySelectorAll(".yr").forEach(function(e){
+  var s=+e.dataset.start||2026, y=new Date().getFullYear();
+  e.textContent = y>s ? s+"–"+y : s;
+});
 </script>
 <main class="wrap" id="postview" hidden>
 <a class="back" href="#blog">← Back to the design blog</a>
